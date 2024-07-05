@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avie
 - 👀 I’m interested in Software Development and Project Management
-- 🌱 I’m currently learning Data Structures and Concurrent Programming
+- 🌱 I’m currently learning Advanced Web Development, Mobile App Development and Software Testing
 - 💞️ I’m looking to collaborate on learning Github haha
 - 📫 How to reach me https://www.linkedin.com/in/aviemae/
 - 😄 Pronouns: she/her
